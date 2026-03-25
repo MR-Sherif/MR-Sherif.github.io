@@ -1,22 +1,46 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters"
+    authors: <strong>Mohammed Rahman Sherif Khan Mohammad</strong>, Ardhendu Behera, Sandip Pradhan, Swagat Kumar, Amr Ahmed
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2603.18101.pdf
+    page: https://arxiv.org/abs/2603.18101
     image: ./assets/img/teaser_example.png
+    notes: Accepted to CVPR 2026
+
+  - title: "Anonymous Submission to ICML"
+    authors: <strong>Mohammed R. Sherif</strong>, Ardhendu Behera, Swagat Kumar
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>.
+    notes: Under Review
+
+  - title: "Anonymous Submission to ECCV (Paper 1)"
+    authors: <strong>Mohammed R. Sherif</strong>, Ardhendu Behera, Sandip Pradhan, Nonso Nnaoko, Swagat Kumar
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>.
+    notes: Under Review
+
+  - title: "Anonymous Submission to ECCV (Paper 2)"
+    authors: <strong>Mohammed R. Sherif</strong>, Ardhendu Behera, Swagat Kumar, Amr Ahmed, Yonghuai Liu
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>.
+    notes: Under Review
+
+  - title: "Anonymous Submission to IEEE TAFFC"
+    authors: <strong>Mohammed R. Sherif</strong>, Ardhendu Behera, Swagat Kumar, Yonghuai Liu, Ran Song
+    conference_short: IEEE TAFFC
+    conference: IEEE Transactions on Affective Computing <strong>(TAFFC)</strong>.
+    notes: Under Review
+
+  - title: "Anonymous Submission to IJCV"
+    authors: Arindam Sikdar, Tasweer Ahmed, Sandip Pradhan, <strong>Mohammed R. Sherif</strong>, Ardhendu Behera
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>.
+    notes: Under Review (Co-authored)
+
+  - title: "Anonymous Submission to Pattern Recognition"
+    authors: Arindam Sikdar, Tasweer Ahmed, Sandip Pradhan, <strong>Mohammed R. Sherif</strong>, Ardhendu Behera
+    conference_short: PR
+    conference: Pattern Recognition.
+    notes: Under Review (Co-authored)
