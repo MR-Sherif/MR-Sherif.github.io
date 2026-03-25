@@ -9,7 +9,7 @@ Hi, I am Mohammed R. Sherif, a 2nd year Ph.D. student at Edge Hill University, w
 ## Research Interests
 
 - **Vision-Language Models:** Few-shot adaptation, parameter-efficient fine-tuning (PEFT)
-- **Computer Vision:** Multimodal video classification, fine-grained recognition
+- **Computer Vision:** Multimodal video understanding, fine-grained recognition
 - **Deep Learning:** Graph Neural Networks (GNNs)
 
 ## News
