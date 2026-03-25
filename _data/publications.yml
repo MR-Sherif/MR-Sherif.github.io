@@ -44,3 +44,11 @@ main:
     conference_short: PR
     conference: Pattern Recognition.
     notes: Under Review (Co-authored)
+
+  - title: "Artificial Intelligence-Assisted Breast Cancer Detection Through Tumor Density Estimation from Histopathological Images"
+    authors: <strong>Mohammed R. Sherif</strong>, Ardhendu Behera
+    conference_short: IconDeepCom
+    conference: Deep Sciences for Computing and Communications <strong>(IconDeepCom)</strong>, Springer CCIS.
+    page: https://doi.org/10.1007/978-3-031-68908-6_19
+    image: ./assets/img/breast_cancer.png
+    notes: Published 2024
