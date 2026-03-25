@@ -21,7 +21,7 @@ Hi, I am Mohammed R. Sherif, a 2nd year Ph.D. student at Edge Hill University, w
 - **[Feb. 2026]** One paper accepted to **CVPR 2026**!
 - **[Jan. 2026]** Submitted a first-author paper to ICML and a co-authored paper to IJCV.
 - **[Dec. 2025]** Submitted a paper to IEEE Transactions on Affective Computing (TAFFC).
-- **[Jun. 2025]** Attended the International Computer Vision Summer School (ICVSS) and won **Runner-Up in the Essay Competition**, competing alongside students from top global institutions (Oxford, Stanford, ETH Zurich, etc.).
+- **[Jun. 2025]** Attended the prestigious International Computer Vision Summer School (ICVSS) and won Runner-Up in the Essay Competition among a highly competitive global cohort.
 
 {% include_relative _includes/publications.md %}
 
