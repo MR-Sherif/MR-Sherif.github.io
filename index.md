@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I am Mohammed R. Sherif, a 2nd year Ph.D. student at Edge Hill University, working under the supervision of Prof. Ardhendu Behera. My Ph.D. research is generously funded by the EPSRC grant ATRACT and UKRI. My work primarily focuses on few-shot Vision-Language Model (VLM) adaptation, parameter-efficient fine-tuning, multimodal video classification, fine-grained recognition, and Graph Neural Networks.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Vision-Language Models:** Few-shot adaptation, parameter-efficient fine-tuning (PEFT)
+- **Computer Vision:** Multimodal video classification, fine-grained recognition
+- **Deep Learning:** Graph Neural Networks (GNNs)
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2026]** The arXiv preprint of my CVPR 2026 paper is now available! 
+- **[Mar. 2026]** Submitted two first-author papers to ECCV and one co-authored paper to Pattern Recognition.
+- **[Feb. 2026]** One paper accepted to **CVPR 2026**!
+- **[Jan. 2026]** Submitted a first-author paper to ICML and a co-authored paper to IJCV.
+- **[Dec. 2025]** Submitted a paper to IEEE Transactions on Affective Computing (TAFFC).
+- **[Jun. 2025]** Attended the International Computer Vision Summer School (ICVSS) and won **Runner-Up in the Essay Competition**, competing alongside students from top global institutions (Oxford, Stanford, ETH Zurich, etc.).
 
 {% include_relative _includes/publications.md %}
 
