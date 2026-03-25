@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Mohammed R. Sherif, a 2nd year Ph.D. student at Edge Hill University, working under the supervision of Prof. Ardhendu Behera. My Ph.D. research is generously funded by the EPSRC grant ATRACT and UKRI. My work primarily focuses on few-shot Vision-Language Model (VLM) adaptation, parameter-efficient fine-tuning, multimodal video classification, fine-grained recognition, and Graph Neural Networks.
+Hi, I am Mohammed R. Sherif, a 2nd year Ph.D. student at Edge Hill University, working under the supervision of Prof. Ardhendu Behera. My Ph.D. research is generously funded by the EPSRC grant ATRACT and UKRI. My work primarily focuses on few-shot Vision-Language Model (VLM) adaptation, parameter-efficient fine-tuning, multimodal video reasoning, fine-grained recognition, and Graph Neural Networks.
 
 ## Research Interests
 
