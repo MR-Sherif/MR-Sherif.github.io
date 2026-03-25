@@ -50,5 +50,5 @@ main:
     conference_short: IconDeepCom
     conference: Deep Sciences for Computing and Communications <strong>(IconDeepCom)</strong>, Springer CCIS.
     page: https://doi.org/10.1007/978-3-031-68908-6_19
-    image: ./assets/img/breast_cancer.png
+    image: ./assets/img/breast_cancer.jpg
     notes: Published 2024
