@@ -13,10 +13,10 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.uk/citations?user=nE5M390AAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
+# cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/MR-Sherif
 linkedin: https://www.linkedin.com/in/mohammed-rahman-sherif/
-twitter: https://twitter.com/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
